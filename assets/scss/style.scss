@@ -1,0 +1,17 @@
+/*
+Theme Name: wp-origin
+Theme URI: https://RyanFitzgerald.ca
+Author: Ryan Fitzgerald
+Author URI: http://RyanFitzgerald.ca
+Description: A bare bones WordPress theme to make theme development easy.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+Text Domain: wp-origin
+Tags:
+*/
+
+@import "styles/variables";
+@import "styles/mixins";
+@import "styles/includes";
+@import "styles/header";
+@import "styles/footer";
